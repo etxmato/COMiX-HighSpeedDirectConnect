@@ -4,6 +4,9 @@ With the High Speed Direct Connect HW & SW for the COMiX it is possible to trans
 
 Read more on our Wiki: https://github.com/etxmato/COMiX-HighSpeedDirectConnect/wiki
 
+HW Files: https://github.com/etxmato/COMiX-HighSpeedDirectConnect/tree/main/adapter
+FW Files: https://github.com/etxmato/COMiX-HighSpeedDirectConnect/tree/main/roms
+
 Andrew Wasson, 
 Hank Riley,
 Marcel van Tongeren
