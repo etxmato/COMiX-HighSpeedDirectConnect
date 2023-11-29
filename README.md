@@ -4,7 +4,7 @@ With the High Speed Direct Connect HW & SW for the COMiX it is possible to trans
 
 Overview of the HSDC solution: 
 
-![](https://github.com/etxmato/COMiX-HighSpeedDirectConnect/blob/main/images/overall%20hookup%20A.jpg)
+![](images/COMiX-35-HSDC.png)
 
 Manual and all detailed information is available on our [Wiki](https://github.com/etxmato/COMiX-HighSpeedDirectConnect/wiki)
 
